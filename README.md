@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guru
 - 👀 I’m interested in ... Java,python,c++
-- 🌱 I’m currently learning ...jave
+- 🌱 I’m currently learning ...java
 - 📫 How to reach me ...
 
 <!---
