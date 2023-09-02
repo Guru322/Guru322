@@ -1,5 +1,5 @@
 ## Hy 👋 Guru Here 
-[<img src="https://github.com/Guru322 /Guru322/blob/master/resources/hr.gif"/>](https://github.com/Guru322)
+[<img src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg"/>](https://github.com/Guru322)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Guru322/count.svg" />
@@ -8,7 +8,7 @@
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Guru322)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Guru322)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NAKLI_GURU)
 
 
 ### My github stats 
