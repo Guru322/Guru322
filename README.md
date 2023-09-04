@@ -1,5 +1,10 @@
-## Hy 👋 Guru Here 
-[<img src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg"/>](https://github.com/Guru322)
+ 
+<p align="center">  
+  <a href="https://github.com/Guru322">
+    <img alt="Guru" height="300" src="https://avatars.githubusercontent.com/u/106463398?v=4">
+    <h1 align="center">Hy 👋 Guru Here</h1>
+  </a>
+</p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/Guru322/count.svg" />
