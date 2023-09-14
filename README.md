@@ -15,8 +15,14 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Guru322)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NAKLI_GURU)
 
+## Listening to
+<p align = "middle">
+<img width = '40.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=false&theme=default"/>
+</a>
+</p>
+<br/>
 
-### My github stats 
+## My github stats 
 <p align="center">
     <img
         width="52%"
