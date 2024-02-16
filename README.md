@@ -1,7 +1,7 @@
  
 <p align="center">  
   <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://avatars.githubusercontent.com/u/106463398?v=4">
+    <img alt="Guru" height="300" src="https://i.ibb.co/dW8DNtY/Blog-log.png">
     <h1 align="center">Hy 👋 Guru Here</h1>
   </a>
 </p>
