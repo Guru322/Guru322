@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Guru322/count.svg" />
+ -->    <img align="middle" src="https://moe.guruapi.tech/get/@:Guru322?theme=moebooru-h" />
 </p>
 
 ## Where to find me
