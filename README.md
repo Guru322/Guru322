@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://moe.guruapi.tech/get/@:Guru322?theme=moebooru-h" />
+ -->    <img align="middle" src="https://moe1.guruapi.tech/get/@:Guru322?theme=moebooru-h" />
 </p>
 
 ## Where to find me
@@ -42,6 +42,3 @@
 </p>
 
 <h3>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Guru322/api/Guru/power.jpg');]{x0000}$}
