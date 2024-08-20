@@ -17,7 +17,7 @@
 
 ## Listening to
 <p align = "middle">
-<img width = '60.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
+<img width = '60.5%' src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
 </a>
 </p>
 <br/>
